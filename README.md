@@ -95,7 +95,7 @@ python test/eval_perceptual_uap.py --clean_dir "path/to/clean_wavs" --delta_path
 
 If you use this code or its parts in your research, please cite the following paper:
 
-```
+```bibtex
 @article{ge2023advddos,
   title={Advddos: Zero-query adversarial attacks against commercial speech recognition systems},
   author={Ge, Yunjie and Zhao, Lingchen and Wang, Qian and Duan, Yiheng and Du, Minxin},
